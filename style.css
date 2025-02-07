@@ -1,0 +1,39 @@
+h1 {
+    background-color: rgb(216, 215, 216);
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+span {
+    background-color: yellow;
+}
+table {
+    border-collapse: collapse;
+}
+.qator1 {
+    background-color: red;
+} 
+.red {
+    background-color: green;
+}  
+td {
+    background-color: rgb(131, 6, 131);
+}
+caption {
+    background-color: gold;
+}
+em {
+    color: red;
+}
+.yashil {
+    color: rgb(23, 155, 23);
+}
+.siyohrang {
+    color: red;
+}
+.sariq {
+    color: yellow;
+}
+.qora {
+    color: black;
+}
